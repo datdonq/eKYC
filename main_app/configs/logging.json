@@ -1,0 +1,58 @@
+{
+    "version": 1,
+    "disable_existing_loggers": false,
+    "formatters": {
+        "simple": {
+            "format": "%(asctime)s %(levelname)s - %(filename)s %(funcName)s(%(lineno)d) - %(message)s"
+        }
+    },
+    "handlers": {
+        "io_file": {
+            "class": "logging.handlers.RotatingFileHandler",
+            "level": "DEBUG",
+            "formatter": "simple",
+            "filename": "logs/io_log.txt",
+            "maxBytes": 51200000,
+            "backupCount": 10,
+            "encoding": "utf-8"
+        },
+        "ai_file": {
+            "class": "logging.handlers.RotatingFileHandler",
+            "level": "DEBUG",
+            "formatter": "simple",
+            "filename": "logs/ai_log.txt",
+            "maxBytes": 51200000,
+            "backupCount": 10,
+            "encoding": "utf-8"
+        },
+        "error_file": {
+            "class": "logging.handlers.RotatingFileHandler",
+            "level": "ERROR",
+            "formatter": "simple",
+            "filename": "logs/error_log.txt",
+            "maxBytes": 51200000,
+            "backupCount": 10,
+            "encoding": "utf-8"
+        }
+    },
+    "loggers": {
+        "io_logger": {
+            "level": "DEBUG",
+            "handlers": [
+                "io_file"
+            ]
+        },
+        "ai_logger": {
+            "level": "DEBUG",
+            "handlers": [
+                "ai_file"
+            ]
+        },
+        "error_logger": {
+            "level": "ERROR",
+            "handlers": [
+                "error_file"
+            ]
+        }
+    }
+}

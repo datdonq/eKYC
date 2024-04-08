@@ -1,0 +1,23 @@
+version: "3.9"
+services:
+    vietocr:
+        build:
+            context: ./
+            dockerfile: dockerfile
+        container_name: service_vietocr
+        ports:
+            - 2826:80
+        # networks:
+        #     - bridges 
+        restart: unless-stopped
+        volumes:
+            - ./:/base
+        # deploy:
+        #   resources:
+        #     reservations:
+        #       devices:
+            #   - driver: nvidia
+                # device_ids: ['2']
+                # capabilities: [gpu]
+# networks:
+#     bridges:

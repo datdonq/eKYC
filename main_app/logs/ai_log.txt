@@ -1,0 +1,869 @@
+2023-08-06 22:49:56,797 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-06 22:49:56,797 DEBUG - ocr_id_card.py idcardreader(73) - Image is quality.
+2023-08-06 22:49:58,364 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 22:50:31,942 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-06 22:50:31,943 DEBUG - ocr_id_card.py idcardreader(73) - Image is quality.
+2023-08-06 22:50:32,468 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 22:51:31,069 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2823/predict_binary successfully
+2023-08-06 22:51:31,070 DEBUG - ocr_id_card.py idcardreader(73) - Image is quality.
+2023-08-06 22:51:32,236 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 23:05:23,403 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2823/predict_binary successfully
+2023-08-06 23:05:23,403 DEBUG - ocr_id_card.py idcardreader(73) - Image is quality.
+2023-08-06 23:05:24,399 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 23:05:44,559 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2823/predict_binary successfully
+2023-08-06 23:05:44,560 DEBUG - ocr_id_card.py idcardreader(73) - Image is quality.
+2023-08-06 23:05:45,539 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 23:07:30,037 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2822/predict_binary successfully
+2023-08-06 23:07:30,037 DEBUG - ocr_id_card.py idcardreader(73) - Image is quality.
+2023-08-06 23:07:32,018 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 23:08:58,328 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2822/predict_binary successfully
+2023-08-06 23:08:58,329 DEBUG - ocr_id_card.py idcardreader(73) - Image is quality.
+2023-08-06 23:09:00,096 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 23:12:25,947 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2823/predict_binary successfully
+2023-08-06 23:12:25,948 DEBUG - ocr_id_card.py idcardreader(73) - Image is quality.
+2023-08-06 23:12:26,960 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 23:16:21,513 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-06 23:16:21,514 DEBUG - ocr_id_card.py idcardreader(73) - Image is quality.
+2023-08-06 23:16:22,033 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 23:16:36,940 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-06 23:16:36,940 DEBUG - ocr_id_card.py idcardreader(73) - Image is quality.
+2023-08-06 23:16:38,390 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 23:51:21,808 DEBUG - utils.py get_url_api(18) - Already determined API url
+2023-08-06 23:51:24,702 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-06 23:51:24,702 DEBUG - ocr_id_card.py idcardreader(77) - Image is quality.
+2023-08-06 23:51:26,193 DEBUG - ocr_id_card.py idcardreader(102) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 23:54:31,672 DEBUG - utils.py get_url_api(18) - Already determined API url
+2023-08-06 23:54:34,862 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-06 23:54:34,863 DEBUG - ocr_id_card.py idcardreader(77) - Image is quality.
+2023-08-06 23:54:36,376 DEBUG - ocr_id_card.py idcardreader(102) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 23:54:46,298 DEBUG - utils.py get_url_api(18) - Already determined API url
+2023-08-06 23:54:49,625 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-06 23:54:49,637 DEBUG - ocr_id_card.py idcardreader(77) - Image is quality.
+2023-08-06 23:54:51,149 DEBUG - ocr_id_card.py idcardreader(102) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 23:55:20,583 DEBUG - utils.py get_url_api(18) - Already determined API url
+2023-08-06 23:55:23,401 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-06 23:55:23,401 DEBUG - ocr_id_card.py idcardreader(77) - Image is quality.
+2023-08-06 23:55:25,248 DEBUG - ocr_id_card.py idcardreader(102) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 23:57:41,018 DEBUG - utils.py get_url_api(18) - Already determined API url
+2023-08-06 23:57:43,518 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-06 23:57:43,519 DEBUG - ocr_id_card.py idcardreader(77) - Image is quality.
+2023-08-06 23:57:45,234 DEBUG - ocr_id_card.py idcardreader(102) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-06 23:58:05,136 DEBUG - utils.py get_url_api(18) - Already determined API url
+2023-08-06 23:58:08,814 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-06 23:58:08,815 DEBUG - ocr_id_card.py idcardreader(75) - Image is quality.
+2023-08-06 23:58:10,531 DEBUG - ocr_id_card.py idcardreader(100) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:05:03,351 DEBUG - utils.py get_url_api(25) - Already determined API url
+2023-08-07 00:05:06,272 DEBUG - ocr_id_card.py idcardreader(61) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:05:06,272 DEBUG - ocr_id_card.py idcardreader(76) - Image is enough quality.
+2023-08-07 00:06:36,909 DEBUG - utils.py get_url_api(25) - Already determined API url
+2023-08-07 00:06:39,804 DEBUG - ocr_id_card.py idcardreader(61) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:06:39,805 DEBUG - ocr_id_card.py idcardreader(76) - Image is enough quality.
+2023-08-07 00:06:41,550 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:07:15,563 DEBUG - utils.py get_url_api(25) - Already determined API url
+2023-08-07 00:07:18,478 DEBUG - ocr_id_card.py idcardreader(61) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:07:18,478 DEBUG - ocr_id_card.py idcardreader(76) - Image is enough quality.
+2023-08-07 00:07:20,183 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:14:47,377 DEBUG - utils.py get_url_api(25) - Already determined API url
+2023-08-07 00:14:50,525 DEBUG - ocr_id_card.py idcardreader(214) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:14:50,525 DEBUG - ocr_id_card.py idcardreader(229) - Image is enough quality.
+2023-08-07 00:14:52,196 DEBUG - ocr_id_card.py idcardreader(243) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:26:22,723 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:26:25,914 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:26:25,914 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:26:27,588 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:26:32,563 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:26:36,397 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:26:36,398 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:26:38,281 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:28:13,101 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:28:16,029 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:28:16,030 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:28:17,703 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:28:43,004 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:28:45,376 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:28:45,376 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:28:47,043 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:29:10,079 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:29:13,064 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:29:13,065 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:29:14,788 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:31:16,710 DEBUG - utils.py get_url_api(25) - Already determined API url
+2023-08-07 00:31:19,570 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:31:19,571 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:31:21,244 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:32:33,657 DEBUG - utils.py get_url_api(25) - Already determined API url
+2023-08-07 00:32:36,136 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:32:36,137 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:32:37,926 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:33:19,704 DEBUG - utils.py get_url_api(25) - Already determined API url
+2023-08-07 00:33:22,684 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:33:22,693 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:33:24,394 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:33:44,964 DEBUG - utils.py get_url_api(25) - Already determined API url
+2023-08-07 00:33:48,216 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:33:48,217 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:33:49,907 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:34:22,318 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:34:25,181 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:34:25,182 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:34:26,986 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:34:58,602 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:35:01,786 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:35:01,786 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:35:03,478 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:35:38,128 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:35:41,264 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:35:41,264 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:35:42,931 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:36:25,283 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:36:28,395 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:36:28,403 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:36:30,067 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:37:16,668 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:37:19,789 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:37:19,790 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:37:21,555 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:37:53,506 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:37:56,714 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:37:56,714 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:37:58,426 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:38:31,088 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:38:34,028 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:38:34,033 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:38:35,753 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:38:43,623 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:38:46,764 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:38:46,764 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:38:48,445 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:40:52,908 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:40:55,813 DEBUG - ocr_id_card.py idcardreader(69) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 00:40:55,814 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:40:57,488 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 00:41:57,083 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 00:42:00,299 DEBUG - ocr_id_card.py idcardreader(69) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 00:42:00,299 DEBUG - ocr_id_card.py idcardreader(85) - Image is enough quality.
+2023-08-07 00:42:00,780 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:13:01,110 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 01:13:04,399 DEBUG - ocr_id_card.py idcardreader(69) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 01:13:04,400 DEBUG - ocr_id_card.py idcardreader(105) - Image is enough quality.
+2023-08-07 01:13:04,930 DEBUG - ocr_id_card.py idcardreader(119) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:16:57,026 DEBUG - utils.py get_url_api(38) - Already determined API url
+2023-08-07 01:16:59,973 DEBUG - ocr_id_card.py idcardreader(61) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 01:16:59,974 DEBUG - ocr_id_card.py idcardreader(78) - Image is enough quality.
+2023-08-07 01:17:00,471 DEBUG - ocr_id_card.py idcardreader(92) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:22:20,839 DEBUG - utils.py get_url_api(44) - Already determined API url
+2023-08-07 01:22:23,627 DEBUG - ocr_id_card.py idcardreader(59) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 01:22:23,627 DEBUG - ocr_id_card.py idcardreader(75) - Image is enough quality.
+2023-08-07 01:22:24,121 DEBUG - ocr_id_card.py idcardreader(89) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:22:35,270 DEBUG - utils.py get_url_api(44) - Already determined API url
+2023-08-07 01:22:38,248 DEBUG - ocr_id_card.py idcardreader(59) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 01:22:38,249 DEBUG - ocr_id_card.py idcardreader(75) - Image is enough quality.
+2023-08-07 01:22:38,784 DEBUG - ocr_id_card.py idcardreader(89) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:23:01,510 DEBUG - utils.py get_url_api(44) - Already determined API url
+2023-08-07 01:23:04,579 DEBUG - ocr_id_card.py idcardreader(59) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 01:23:04,580 DEBUG - ocr_id_card.py idcardreader(75) - Image is enough quality.
+2023-08-07 01:23:06,640 DEBUG - ocr_id_card.py idcardreader(89) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:25:07,417 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 01:25:09,981 DEBUG - ocr_id_card.py idcardreader(59) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 01:25:09,981 DEBUG - ocr_id_card.py idcardreader(75) - Image is enough quality.
+2023-08-07 01:25:12,035 DEBUG - ocr_id_card.py idcardreader(89) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:29:43,021 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 01:29:46,065 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 01:29:46,065 DEBUG - ocr_id_card.py idcardreader(76) - Image is enough quality.
+2023-08-07 01:31:27,814 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 01:31:29,959 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 01:31:29,960 DEBUG - ocr_id_card.py idcardreader(76) - Image is enough quality.
+2023-08-07 01:33:18,463 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 01:33:20,680 DEBUG - ocr_id_card.py idcardreader(59) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 01:33:20,681 DEBUG - ocr_id_card.py idcardreader(75) - Image is enough quality.
+2023-08-07 01:33:22,757 DEBUG - ocr_id_card.py idcardreader(89) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:42:45,232 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 01:42:49,922 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2822/predict_binary successfully
+2023-08-07 01:42:49,922 DEBUG - ocr_id_card.py idcardreader(71) - Image is enough quality.
+2023-08-07 01:42:51,772 DEBUG - ocr_id_card.py idcardreader(85) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:43:54,731 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 01:43:57,269 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 01:43:57,270 DEBUG - ocr_id_card.py idcardreader(71) - Image is enough quality.
+2023-08-07 01:43:59,352 DEBUG - ocr_id_card.py idcardreader(85) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:44:35,575 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 01:44:37,923 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 01:44:37,923 DEBUG - ocr_id_card.py idcardreader(71) - Image is enough quality.
+2023-08-07 01:44:40,378 DEBUG - ocr_id_card.py idcardreader(85) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:46:01,474 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 01:46:04,750 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 01:46:04,751 DEBUG - ocr_id_card.py idcardreader(71) - Image is enough quality.
+2023-08-07 01:46:05,578 DEBUG - ocr_id_card.py idcardreader(85) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:47:32,165 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 01:47:35,502 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 01:47:35,503 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 01:47:36,014 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:55:08,505 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 01:55:11,262 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 01:55:11,263 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 01:55:11,608 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:55:18,844 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 01:55:21,742 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 01:55:21,743 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 01:55:22,106 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 01:55:29,534 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 01:55:33,201 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 01:55:33,202 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 01:55:35,354 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 02:10:34,983 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 02:12:42,705 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 02:12:44,418 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 02:19:47,469 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 02:20:17,538 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 02:20:19,817 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 02:20:19,819 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 02:20:20,186 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 02:23:03,167 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 02:23:06,271 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 02:23:06,271 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 02:23:06,604 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 02:23:28,950 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 02:23:30,923 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 02:23:30,923 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 02:23:32,933 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:06:24,707 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:06:27,518 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 03:06:27,519 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:06:29,164 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:09:03,335 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:09:06,267 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 03:09:06,267 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:09:07,685 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:10:41,754 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:10:44,573 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 03:10:44,575 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:10:46,024 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:11:09,020 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:11:11,995 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 03:11:11,996 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:11:13,451 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:11:13,589 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:11:19,366 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2823/predict_binary successfully
+2023-08-07 03:11:19,366 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:11:20,318 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:11:32,398 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:11:35,303 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 03:11:35,304 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:11:36,854 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:11:36,939 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:11:41,276 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 03:11:41,277 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:11:41,619 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:11:41,711 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:11:49,287 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2822/predict_binary successfully
+2023-08-07 03:11:49,288 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:11:51,086 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:11:51,148 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:11:55,922 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2823/predict_binary successfully
+2023-08-07 03:11:55,923 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:11:56,911 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:23:13,679 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:23:16,601 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 03:23:16,602 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:23:16,963 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:35:01,983 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:35:05,296 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 03:35:05,297 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:35:07,349 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:37:22,900 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:37:25,870 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 03:37:25,871 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:37:26,423 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:38:57,917 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:39:00,848 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2023-08-07 03:39:00,849 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:39:01,186 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:41:27,798 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:41:30,348 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2823/predict_binary successfully
+2023-08-07 03:41:30,349 DEBUG - ocr_id_card.py idcardreader(119) - Image is not enough quality.
+2023-08-07 03:42:14,211 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:42:17,254 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2823/predict_binary successfully
+2023-08-07 03:42:17,255 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 03:42:18,033 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 03:45:57,588 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:46:00,598 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 03:46:00,598 DEBUG - ocr_id_card.py idcardreader(119) - Image is not enough quality.
+2023-08-07 03:46:31,084 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:46:33,815 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 03:46:33,817 DEBUG - ocr_id_card.py idcardreader(119) - Image is not enough quality.
+2023-08-07 03:58:33,502 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 03:58:36,744 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 03:58:36,745 DEBUG - ocr_id_card.py idcardreader(119) - Image is not enough quality.
+2023-08-07 03:59:57,385 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 04:00:00,814 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 04:00:00,814 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 04:00:02,343 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 06:10:31,970 DEBUG - utils.py get_url_api(45) - Already determined API url
+2023-08-07 06:10:34,929 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 06:10:34,930 DEBUG - ocr_id_card.py idcardreader(72) - Image is enough quality.
+2023-08-07 06:10:36,349 DEBUG - ocr_id_card.py idcardreader(86) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 06:24:02,414 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 06:24:05,326 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 06:24:54,187 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 06:24:56,728 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 06:24:56,860 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 06:24:58,299 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 06:26:42,036 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 06:26:44,821 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 06:26:44,946 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 06:26:46,291 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 06:29:33,760 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 06:29:36,704 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 06:30:19,832 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 06:30:23,323 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 06:30:23,433 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 06:30:24,733 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 06:34:56,288 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 06:34:59,173 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 06:34:59,287 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 06:35:00,711 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 06:37:40,991 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 06:37:43,591 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 06:37:43,707 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 06:37:45,156 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 06:38:35,663 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 06:38:38,295 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 06:38:38,432 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 06:41:07,715 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 06:41:10,844 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 06:41:10,844 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 06:41:12,400 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 06:43:16,379 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 06:43:19,461 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 06:43:19,462 DEBUG - ocr_id_card.py idcardreader(82) - Image is enough quality.
+2023-08-07 06:43:20,598 DEBUG - ocr_id_card.py idcardreader(96) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 06:45:10,042 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 06:45:12,956 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 06:45:12,957 DEBUG - ocr_id_card.py idcardreader(82) - Image is enough quality.
+2023-08-07 06:45:14,008 DEBUG - ocr_id_card.py idcardreader(96) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 07:02:01,142 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:02:04,508 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:02:04,509 DEBUG - ocr_id_card.py idcardreader(83) - Image is enough quality.
+2023-08-07 07:02:04,989 DEBUG - ocr_id_card.py idcardreader(97) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 07:03:21,858 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:03:24,763 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:03:24,763 DEBUG - ocr_id_card.py idcardreader(83) - Image is enough quality.
+2023-08-07 07:03:25,175 DEBUG - ocr_id_card.py idcardreader(97) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 07:03:56,846 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:04:00,184 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:04:00,184 DEBUG - ocr_id_card.py idcardreader(79) - 0
+2023-08-07 07:04:00,185 DEBUG - ocr_id_card.py idcardreader(83) - Image is enough quality.
+2023-08-07 07:04:00,607 DEBUG - ocr_id_card.py idcardreader(97) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 07:08:48,250 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:08:51,572 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:08:51,703 DEBUG - ocr_id_card.py idcardreader(79) - 0
+2023-08-07 07:08:51,704 DEBUG - ocr_id_card.py idcardreader(83) - Image is enough quality.
+2023-08-07 07:08:52,115 DEBUG - ocr_id_card.py idcardreader(97) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 07:10:06,624 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:10:09,804 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:10:09,927 DEBUG - ocr_id_card.py idcardreader(83) - Image is enough quality.
+2023-08-07 07:10:10,359 DEBUG - ocr_id_card.py idcardreader(97) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 07:10:59,349 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:11:02,537 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:11:02,537 DEBUG - ocr_id_card.py idcardreader(82) - Image is enough quality.
+2023-08-07 07:11:02,981 DEBUG - ocr_id_card.py idcardreader(96) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 07:11:41,132 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:11:43,912 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:11:43,913 DEBUG - ocr_id_card.py idcardreader(82) - Image is enough quality.
+2023-08-07 07:11:44,324 DEBUG - ocr_id_card.py idcardreader(96) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 07:12:36,978 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:12:40,258 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:12:40,259 DEBUG - ocr_id_card.py idcardreader(82) - Image is enough quality.
+2023-08-07 07:13:05,028 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:13:08,078 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:13:08,078 DEBUG - ocr_id_card.py idcardreader(82) - Image is enough quality.
+2023-08-07 07:13:08,715 DEBUG - ocr_id_card.py idcardreader(96) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 07:13:52,878 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:13:55,850 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:13:55,851 DEBUG - ocr_id_card.py idcardreader(82) - Image is enough quality.
+2023-08-07 07:13:56,505 DEBUG - ocr_id_card.py idcardreader(96) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 07:14:40,932 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:14:43,745 DEBUG - ocr_id_card.py idcardreader(60) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:14:43,745 DEBUG - ocr_id_card.py idcardreader(82) - Image is enough quality.
+2023-08-07 07:14:44,338 DEBUG - ocr_id_card.py idcardreader(96) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 07:15:17,586 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:15:20,539 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:15:20,540 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 07:15:21,128 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 07:15:59,071 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:16:01,516 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:16:01,633 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 07:16:02,224 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 07:17:26,091 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 07:17:28,673 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 07:17:28,799 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 07:17:29,399 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 08:40:49,271 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 08:40:52,216 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 08:40:52,379 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 08:40:53,758 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 08:41:42,782 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 08:41:46,100 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 08:41:46,212 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 08:41:47,545 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 08:42:20,990 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 08:42:24,364 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 08:42:24,471 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 08:42:25,916 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 08:43:19,966 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 08:43:22,991 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 08:43:23,104 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 08:46:32,318 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 08:46:34,697 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 08:46:34,922 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 08:46:36,734 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 08:47:31,130 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 08:47:34,323 DEBUG - ocr_id_card.py idcardreader(55) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 08:47:34,432 DEBUG - ocr_id_card.py idcardreader(77) - Image is enough quality.
+2023-08-07 08:47:35,523 DEBUG - ocr_id_card.py idcardreader(91) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 08:50:50,018 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 08:50:52,730 DEBUG - ocr_id_card.py idcardreader(61) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 08:50:52,845 DEBUG - ocr_id_card.py idcardreader(83) - Image is enough quality.
+2023-08-07 08:50:53,936 DEBUG - ocr_id_card.py idcardreader(97) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 08:55:43,078 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 08:55:46,308 DEBUG - ocr_id_card.py idcardreader(66) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 08:55:46,420 DEBUG - ocr_id_card.py idcardreader(88) - Image is enough quality.
+2023-08-07 08:55:47,547 DEBUG - ocr_id_card.py idcardreader(102) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 08:57:34,801 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 08:57:37,252 DEBUG - ocr_id_card.py idcardreader(72) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 08:57:37,388 DEBUG - ocr_id_card.py idcardreader(94) - Image is enough quality.
+2023-08-07 08:57:38,436 DEBUG - ocr_id_card.py idcardreader(108) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 09:00:37,694 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 09:00:40,189 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 09:00:40,295 DEBUG - ocr_id_card.py idcardreader(92) - Image is enough quality.
+2023-08-07 09:00:41,872 DEBUG - ocr_id_card.py idcardreader(106) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 09:03:39,030 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-07 09:03:42,155 DEBUG - ocr_id_card.py idcardreader(70) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 09:03:42,190 DEBUG - ocr_id_card.py idcardreader(92) - Image is enough quality.
+2023-08-07 09:03:44,037 DEBUG - ocr_id_card.py idcardreader(106) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 09:16:02,047 DEBUG - utils.py get_url_api(47) - Already determined API url
+2023-08-07 09:16:05,301 DEBUG - ocr_id_card.py idcardreader(72) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 09:16:05,346 DEBUG - ocr_id_card.py idcardreader(94) - Image is enough quality.
+2023-08-07 09:16:07,215 DEBUG - ocr_id_card.py idcardreader(108) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 09:16:22,081 DEBUG - utils.py get_url_api(47) - Already determined API url
+2023-08-07 09:16:24,926 DEBUG - ocr_id_card.py idcardreader(72) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 09:16:25,041 DEBUG - ocr_id_card.py idcardreader(94) - Image is enough quality.
+2023-08-07 09:16:26,016 DEBUG - ocr_id_card.py idcardreader(108) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 09:21:31,160 DEBUG - utils.py get_url_api(47) - Already determined API url
+2023-08-07 09:21:34,594 DEBUG - ocr_id_card.py idcardreader(72) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 09:21:34,723 DEBUG - ocr_id_card.py idcardreader(94) - Image is enough quality.
+2023-08-07 09:21:35,729 DEBUG - ocr_id_card.py idcardreader(108) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 09:25:05,234 DEBUG - utils.py get_url_api(47) - Already determined API url
+2023-08-07 09:25:08,354 DEBUG - ocr_id_card.py idcardreader(68) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 09:25:08,461 DEBUG - ocr_id_card.py idcardreader(90) - Image is enough quality.
+2023-08-07 09:25:10,026 DEBUG - ocr_id_card.py idcardreader(104) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-07 09:42:39,333 DEBUG - utils.py get_url_api(47) - Already determined API url
+2023-08-07 09:42:42,162 DEBUG - ocr_id_card.py idcardreader(68) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2023-08-07 09:42:42,283 DEBUG - ocr_id_card.py idcardreader(90) - Image is enough quality.
+2023-08-07 09:42:44,021 DEBUG - ocr_id_card.py idcardreader(104) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-08 03:58:37,326 DEBUG - ocr_passport.py passportcardreader(63) - Call api at http://192.168.20.156:8003/predict_multi_binary failed. Status code 422
+2023-08-08 03:59:38,513 DEBUG - ocr_passport.py passportcardreader(63) - Call api at http://192.168.20.156:8003/predict_multi_binary failed. Status code 422
+2023-08-08 04:00:24,202 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:00:51,772 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:01:33,613 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:01:46,345 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:03:25,236 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:03:48,685 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:07:03,330 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:08:31,528 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:09:02,905 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:09:59,053 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:10:24,245 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:20:50,406 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:20:54,902 DEBUG - ocr_passport.py passportcardreader(93) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-08 04:21:37,273 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:21:41,720 DEBUG - ocr_passport.py passportcardreader(92) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-08 04:22:31,879 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:22:36,146 DEBUG - ocr_passport.py passportcardreader(92) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-08 04:43:02,766 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:43:07,040 DEBUG - ocr_passport.py passportcardreader(92) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-08 04:59:50,692 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 04:59:54,582 DEBUG - ocr_passport.py passportcardreader(88) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-08 05:13:49,264 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 05:13:52,837 DEBUG - ocr_passport.py passportcardreader(88) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-08 09:36:17,089 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-08 09:36:20,518 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-08 09:36:20,723 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2023-08-08 09:36:22,785 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-08 09:48:49,440 DEBUG - ocr_passport.py passportcardreader(46) - 
+Received input data successfully.
+2023-08-08 09:49:13,918 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 09:49:13,929 DEBUG - ocr_passport.py passportcardreader(77) - Image is enough quality.
+2023-08-08 09:49:16,517 DEBUG - ocr_passport.py passportcardreader(90) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-08 09:49:38,189 DEBUG - ocr_passport.py passportcardreader(46) - 
+Received input data successfully.
+2023-08-08 09:49:39,717 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 09:49:39,718 DEBUG - ocr_passport.py passportcardreader(77) - Image is enough quality.
+2023-08-08 09:49:43,034 DEBUG - ocr_passport.py passportcardreader(90) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-08 09:51:00,014 DEBUG - ocr_passport.py passportcardreader(46) - 
+Received input data successfully.
+2023-08-08 09:51:01,633 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 09:51:01,635 DEBUG - ocr_passport.py passportcardreader(77) - Image is enough quality.
+2023-08-08 09:51:04,860 DEBUG - ocr_passport.py passportcardreader(90) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-08 09:59:22,420 DEBUG - ocr_passport.py passportcardreader(46) - 
+Received input data successfully.
+2023-08-08 09:59:23,785 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 10:00:36,744 DEBUG - ocr_passport.py passportcardreader(59) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 10:01:17,030 DEBUG - ocr_passport.py passportcardreader(59) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 10:01:17,030 DEBUG - ocr_passport.py passportcardreader(120) - Image is not enough quality.
+2023-08-08 10:02:20,407 DEBUG - ocr_passport.py passportcardreader(59) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 10:02:20,407 DEBUG - ocr_passport.py passportcardreader(120) - Image is not enough quality.
+2023-08-08 10:02:25,373 DEBUG - ocr_passport.py passportcardreader(59) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 10:02:25,374 DEBUG - ocr_passport.py passportcardreader(120) - Image is not enough quality.
+2023-08-08 10:03:02,399 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-08 10:03:05,850 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-08 10:03:05,961 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2023-08-08 10:03:07,597 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-08 10:03:29,070 DEBUG - ocr_passport.py passportcardreader(59) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 10:03:29,070 DEBUG - ocr_passport.py passportcardreader(119) - Image is not enough quality.
+2023-08-08 10:03:43,054 DEBUG - ocr_passport.py passportcardreader(59) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-08 10:03:43,055 DEBUG - ocr_passport.py passportcardreader(77) - Image is enough quality.
+2023-08-08 10:03:45,460 DEBUG - ocr_passport.py passportcardreader(90) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-09 03:46:02,563 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-09 03:50:56,422 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-09 03:50:59,940 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-09 03:51:00,176 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2023-08-09 03:51:02,472 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-09 03:53:47,600 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-09 03:53:50,563 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-09 03:53:50,667 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2023-08-09 03:53:52,536 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-09 03:56:47,846 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-09 03:56:50,757 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-09 03:56:50,861 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2023-08-09 03:56:52,744 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-09 03:57:43,237 DEBUG - ocr_passport.py passportcardreader(59) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-09 03:57:43,238 DEBUG - ocr_passport.py passportcardreader(77) - Image is enough quality.
+2023-08-09 03:57:46,069 DEBUG - ocr_passport.py passportcardreader(90) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-09 03:58:15,862 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-09 03:58:18,793 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-09 03:58:18,901 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2023-08-09 03:58:20,839 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-11 07:39:00,775 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:39:01,101 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 07:39:27,715 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:39:28,001 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8011/predict_binary successfully
+2023-08-11 07:40:33,278 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:40:33,289 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 07:44:03,977 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:44:03,994 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8011/predict_binary successfully
+2023-08-11 07:46:51,668 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:46:51,682 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8011/predict_binary successfully
+2023-08-11 07:54:43,757 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:54:43,774 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8011/predict_binary successfully
+2023-08-11 07:54:47,652 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:54:47,676 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 07:55:37,653 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:55:37,668 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 07:56:01,939 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:56:01,949 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 07:56:12,295 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:56:12,311 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 07:56:52,722 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:56:52,733 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 07:57:06,457 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:57:06,472 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 07:57:08,563 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:57:08,573 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 07:58:30,564 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:58:34,252 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 07:58:34,356 DEBUG - ocr_id_card.py idcardreader(134) - Image is not enough quality.
+2023-08-11 07:59:28,706 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 07:59:31,580 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 07:59:31,635 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2023-08-11 07:59:37,542 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-11 08:00:57,966 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 08:01:00,522 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 08:01:00,587 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2023-08-11 08:01:06,944 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-11 08:03:44,466 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 08:03:47,055 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 08:03:47,143 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2023-08-11 08:03:54,409 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-11 08:10:20,439 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 08:10:23,519 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8011/predict_binary successfully
+2023-08-11 08:10:23,615 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2023-08-11 08:10:24,150 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-11 08:10:59,467 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 08:10:59,477 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8011/predict_binary successfully
+2023-08-11 08:11:07,685 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 08:11:10,614 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 08:11:10,630 DEBUG - ocr_id_card.py idcardreader(134) - Image is not enough quality.
+2023-08-11 08:11:49,829 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 08:11:52,276 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-11 08:11:52,877 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-11 08:11:52,937 DEBUG - ocr_id_card.py idcardreader(134) - Image is not enough quality.
+2023-08-11 08:11:52,938 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-15 10:49:37,450 DEBUG - ocr_passport.py passportcardreader(59) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-15 10:49:37,451 DEBUG - ocr_passport.py passportcardreader(119) - Image is not enough quality.
+2023-08-15 10:49:50,692 DEBUG - ocr_passport.py passportcardreader(59) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-15 10:49:50,692 DEBUG - ocr_passport.py passportcardreader(119) - Image is not enough quality.
+2023-08-15 10:57:59,748 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-15 10:58:03,868 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-15 10:58:04,003 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2023-08-15 10:58:15,520 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-15 14:06:47,738 DEBUG - ocr_passport.py passportcardreader(59) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-15 14:06:47,739 DEBUG - ocr_passport.py passportcardreader(119) - Image is not enough quality.
+2023-08-15 14:59:53,040 DEBUG - ocr_passport.py passportcardreader(59) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-15 14:59:53,042 DEBUG - ocr_passport.py passportcardreader(77) - Image is enough quality.
+2023-08-15 15:00:03,445 DEBUG - ocr_passport.py passportcardreader(90) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-15 15:01:51,106 DEBUG - ocr_passport.py passportcardreader(59) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-15 15:01:51,106 DEBUG - ocr_passport.py passportcardreader(77) - Image is enough quality.
+2023-08-15 15:01:58,364 DEBUG - ocr_passport.py passportcardreader(90) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-15 15:07:04,195 DEBUG - ocr_passport.py passportcardreader(59) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-15 15:07:04,196 DEBUG - ocr_passport.py passportcardreader(77) - Image is enough quality.
+2023-08-15 15:07:24,139 DEBUG - ocr_passport.py passportcardreader(90) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-15 15:28:54,669 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-15 15:28:58,294 DEBUG - ocr_id_card.py idcardreader(47) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-15 15:28:58,296 DEBUG - ocr_id_card.py idcardreader(64) - Image is enough quality.
+2023-08-15 15:31:12,953 DEBUG - ocr_id_card.py idcardreader(79) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-15 15:32:12,701 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-15 15:32:15,506 DEBUG - ocr_id_card.py idcardreader(47) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-15 15:32:15,508 DEBUG - ocr_id_card.py idcardreader(64) - Image is enough quality.
+2023-08-15 15:34:00,031 DEBUG - utils.py get_url_api(46) - Already determined API url
+2023-08-15 15:34:03,336 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:8010/predict_binary successfully
+2023-08-15 15:34:03,337 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2023-08-15 15:34:22,521 DEBUG - ocr_id_card.py idcardreader(85) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2023-08-15 15:39:20,121 DEBUG - ocr_passport.py passportcardreader(60) - Call api at http://0.0.0.0:8014/predict_binary successfully
+2023-08-15 15:39:20,122 DEBUG - ocr_passport.py passportcardreader(78) - Image is enough quality.
+2023-08-15 15:39:35,274 DEBUG - ocr_passport.py passportcardreader(99) - Call api at http://192.168.20.156:8003/predict_multi_binary successfully
+2024-04-04 07:02:14,473 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-04 07:02:14,788 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-04 07:02:14,788 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-04 07:02:16,926 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-04 07:02:17,175 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-04 07:02:17,176 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-04 07:36:52,067 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-04 07:37:20,131 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-04 07:40:57,824 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-04 07:40:58,074 DEBUG - ocr_id_card.py idcardreader(49) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-04 07:40:58,074 DEBUG - ocr_id_card.py idcardreader(66) - Image is enough quality.
+2024-04-05 04:26:33,673 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 04:27:04,166 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 04:27:10,984 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 04:27:36,866 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 04:47:24,393 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 04:47:24,649 DEBUG - ocr_id_card.py idcardreader(49) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-05 04:47:24,649 DEBUG - ocr_id_card.py idcardreader(66) - Image is enough quality.
+2024-04-05 04:51:57,075 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 04:51:57,329 DEBUG - ocr_id_card.py idcardreader(49) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-05 04:51:57,329 DEBUG - ocr_id_card.py idcardreader(66) - Image is enough quality.
+2024-04-05 04:52:53,919 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 04:52:54,188 DEBUG - ocr_id_card.py idcardreader(49) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-05 04:52:54,189 DEBUG - ocr_id_card.py idcardreader(66) - Image is enough quality.
+2024-04-05 04:53:01,180 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 04:53:01,565 DEBUG - ocr_id_card.py idcardreader(49) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-05 04:53:01,566 DEBUG - ocr_id_card.py idcardreader(66) - Image is enough quality.
+2024-04-05 04:53:46,173 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 04:53:48,826 DEBUG - ocr_id_card.py idcardreader(49) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-05 04:53:48,826 DEBUG - ocr_id_card.py idcardreader(66) - Image is enough quality.
+2024-04-05 04:54:28,378 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 04:54:28,657 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-05 04:54:28,657 DEBUG - ocr_id_card.py idcardreader(66) - Image is enough quality.
+2024-04-05 04:57:08,349 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 04:57:08,715 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-05 04:57:08,715 DEBUG - ocr_id_card.py idcardreader(122) - Image is not enough quality.
+2024-04-05 04:57:34,667 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 04:57:35,039 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 04:57:35,040 DEBUG - ocr_id_card.py idcardreader(66) - Image is enough quality.
+2024-04-05 04:57:35,194 DEBUG - ocr_id_card.py idcardreader(89) - Call api at http://0.0.0.0:2826/predict_binary failed. Status code 422
+2024-04-05 05:02:09,990 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:02:10,266 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:02:10,266 DEBUG - ocr_id_card.py idcardreader(66) - Image is enough quality.
+2024-04-05 05:02:10,350 DEBUG - ocr_id_card.py idcardreader(89) - Call api at http://0.0.0.0:2826/predict_binary failed. Status code 422
+2024-04-05 05:03:16,668 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:03:17,046 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:03:17,047 DEBUG - ocr_id_card.py idcardreader(66) - Image is enough quality.
+2024-04-05 05:03:17,141 DEBUG - ocr_id_card.py idcardreader(89) - Call api at http://0.0.0.0:2826/predict_binary failed. Status code 422
+2024-04-05 05:04:22,098 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:04:22,395 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:04:22,395 DEBUG - ocr_id_card.py idcardreader(66) - Image is enough quality.
+2024-04-05 05:04:22,478 DEBUG - ocr_id_card.py idcardreader(89) - Call api at http://0.0.0.0:2826/predict_binary failed. Status code 422
+2024-04-05 05:05:42,538 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:05:42,825 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:05:42,826 DEBUG - ocr_id_card.py idcardreader(66) - Image is enough quality.
+2024-04-05 05:05:42,908 DEBUG - ocr_id_card.py idcardreader(90) - Call api at http://0.0.0.0:2826/predict_binary failed. Status code 422
+2024-04-05 05:06:14,444 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:06:14,732 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:06:14,732 DEBUG - ocr_id_card.py idcardreader(66) - Image is enough quality.
+2024-04-05 05:06:14,803 DEBUG - ocr_id_card.py idcardreader(90) - Call api at http://0.0.0.0:2826/predict_binary failed. Status code 422
+2024-04-05 05:22:49,903 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:22:50,212 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:22:50,213 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-05 05:22:50,313 DEBUG - ocr_id_card.py idcardreader(89) - Call api at http://0.0.0.0:2826/predict_binary failed. Status code 422
+2024-04-05 05:23:46,102 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:23:46,398 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:23:46,399 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-05 05:23:46,484 DEBUG - ocr_id_card.py idcardreader(90) - Call api at http://0.0.0.0:2826/predict_binary failed. Status code 422
+2024-04-05 05:25:23,263 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:25:23,541 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:25:23,541 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-05 05:25:26,011 DEBUG - ocr_id_card.py idcardreader(87) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-05 05:26:27,584 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:26:27,866 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:26:27,867 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-05 05:26:30,299 DEBUG - ocr_id_card.py idcardreader(87) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-05 05:26:53,845 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:26:54,225 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:26:54,226 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-05 05:26:56,787 DEBUG - ocr_id_card.py idcardreader(87) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-05 05:27:27,938 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:27:28,228 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-05 05:27:28,229 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-05 05:27:28,681 DEBUG - ocr_id_card.py idcardreader(87) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-05 05:28:10,295 DEBUG - face.py idcardreader(51) - Call api at http://0.0.0.0:8005/predict_binary failed. Status code 404
+2024-04-05 05:29:16,737 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:29:17,016 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:29:17,016 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-05 05:29:19,254 DEBUG - ocr_id_card.py idcardreader(87) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-05 05:30:06,206 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:30:06,488 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-05 05:30:06,489 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-05 05:30:06,890 DEBUG - ocr_id_card.py idcardreader(85) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-05 05:30:57,801 DEBUG - face.py idcardreader(51) - Call api at http://0.0.0.0:8005/predict_binary failed. Status code 404
+2024-04-05 05:34:20,981 DEBUG - face.py idcardreader(51) - Call api at http://0.0.0.0:8005/predict_binary failed. Status code 404
+2024-04-05 05:35:17,312 DEBUG - face.py idcardreader(51) - Call api at http://0.0.0.0:8005/predict_binary failed. Status code 404
+2024-04-05 05:36:35,336 DEBUG - face.py idcardreader(51) - Call api at http://0.0.0.0:8005/predict_binary failed. Status code 404
+2024-04-05 05:37:35,795 DEBUG - face.py idcardreader(51) - Call api at http://0.0.0.0:8005/predict_binary failed. Status code 404
+2024-04-05 05:39:10,759 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:39:11,173 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:39:11,274 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-05 05:39:13,829 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-05 05:39:38,931 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:39:39,216 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-05 05:39:39,352 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-05 05:39:39,796 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-05 05:41:59,112 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:43:25,636 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:44:05,595 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:49:12,396 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:49:12,821 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:49:12,821 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-05 05:49:15,282 DEBUG - ocr_id_card.py idcardreader(85) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-05 05:50:04,026 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:50:04,328 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:50:04,329 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-05 05:50:06,740 DEBUG - ocr_id_card.py idcardreader(85) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-05 05:50:37,468 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:50:37,764 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:50:37,764 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-05 05:50:40,021 DEBUG - ocr_id_card.py idcardreader(85) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-05 05:50:52,234 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:51:05,836 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-05 05:51:06,162 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-05 05:51:06,162 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-05 05:51:08,632 DEBUG - ocr_id_card.py idcardreader(85) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 01:29:19,039 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 01:29:19,497 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 01:29:19,497 DEBUG - ocr_id_card.py idcardreader(65) - Image is enough quality.
+2024-04-06 01:29:21,903 DEBUG - ocr_id_card.py idcardreader(85) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 01:37:34,635 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 01:37:34,885 DEBUG - ocr_id_card.py idcardreader(48) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 01:37:34,885 DEBUG - ocr_id_card.py idcardreader(121) - Image is not enough quality.
+2024-04-06 07:50:59,451 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 07:50:59,742 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 07:50:59,784 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 07:51:01,530 DEBUG - ocr_id_card.py idcardreader(98) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 07:54:28,111 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 07:54:28,336 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 07:54:28,383 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 07:54:30,112 DEBUG - ocr_id_card.py idcardreader(99) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 07:56:41,436 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 07:56:41,672 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 07:56:41,712 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 07:56:43,481 DEBUG - ocr_id_card.py idcardreader(100) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 07:59:01,802 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 07:59:02,119 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 07:59:02,247 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 07:59:04,773 DEBUG - ocr_id_card.py idcardreader(100) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:02:28,931 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:02:29,315 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:02:29,443 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:03:56,409 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:03:56,778 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:03:56,906 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:04:24,771 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:04:25,105 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:04:25,229 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:04:38,400 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:04:38,782 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:04:38,907 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:05:02,088 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:05:02,336 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:05:02,382 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:06:01,803 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:06:02,066 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:06:02,114 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:06:03,756 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:06:15,783 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:06:16,121 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:06:16,249 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:06:18,699 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:06:57,109 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:06:57,368 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:06:57,412 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:06:59,761 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:07:35,054 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:07:35,313 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:07:35,357 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:07:37,689 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:08:40,810 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:08:41,044 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2821/predict_binary successfully
+2024-04-06 08:08:41,107 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:08:41,127 DEBUG - ocr_id_card.py idcardreader(104) - Call api at http://0.0.0.0:2826/predict_multi_binary failed. Status code 422
+2024-04-06 08:09:03,422 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:09:03,785 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:09:03,912 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:09:06,423 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:09:24,853 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:09:25,119 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:09:25,164 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:09:26,811 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:11:58,545 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:11:58,844 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:11:58,890 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:12:00,637 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:13:39,354 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:13:39,721 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:13:39,847 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:13:42,298 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:13:47,473 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:13:47,940 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:13:48,045 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:13:50,535 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:15:14,128 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:15:14,418 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:15:14,465 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:15:16,136 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:16:07,865 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:16:08,148 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:16:08,195 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:16:09,904 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:17:06,825 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:17:07,221 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:17:07,330 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:17:09,790 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:17:46,714 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:17:46,991 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:17:47,030 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:17:49,334 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:18:48,221 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:18:48,579 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:18:48,693 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:18:51,162 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:32:14,679 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:32:14,971 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:32:15,007 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:32:15,255 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:33:08,515 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:33:08,893 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:33:08,935 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:33:10,602 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully
+2024-04-06 08:37:33,000 DEBUG - utils.py get_url_api(46) - Already determined API url
+2024-04-06 08:37:33,378 DEBUG - ocr_id_card.py idcardreader(62) - Call api at http://0.0.0.0:2820/predict_binary successfully
+2024-04-06 08:37:33,487 DEBUG - ocr_id_card.py idcardreader(84) - Image is enough quality.
+2024-04-06 08:37:35,954 DEBUG - ocr_id_card.py idcardreader(101) - Call api at http://0.0.0.0:2826/predict_multi_binary successfully

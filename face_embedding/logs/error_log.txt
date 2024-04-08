@@ -1,0 +1,15 @@
+2023-08-12 07:33:20,458 ERROR - face_detect_embedding.py predict_face(156) - 'Tensor' object has no attribute 'numpy'
+Traceback (most recent call last):
+  File "/mtcnn_facenet/mtcnn_facenet/routers/face_detect_embedding.py", line 120, in predict_face
+    cosine_similarity_value = cosine_similarity.numpy()
+AttributeError: 'Tensor' object has no attribute 'numpy'
+2023-08-12 07:35:49,489 ERROR - face_detect_embedding.py predict_face(156) - 'Tensor' object has no attribute 'numpy'
+Traceback (most recent call last):
+  File "/mtcnn_facenet/mtcnn_facenet/routers/face_detect_embedding.py", line 120, in predict_face
+    cosine_similarity_value = cosine_similarity.numpy()
+AttributeError: 'Tensor' object has no attribute 'numpy'
+2023-08-12 07:39:38,823 ERROR - face_detect_embedding.py predict_face(156) - 'Tensor' object has no attribute 'numpy'
+Traceback (most recent call last):
+  File "/mtcnn_facenet/mtcnn_facenet/routers/face_detect_embedding.py", line 121, in predict_face
+    print(cosine_similarity.numpy())
+AttributeError: 'Tensor' object has no attribute 'numpy'

@@ -1,0 +1,133 @@
+2023-08-01 16:00:28,624 ERROR - OcrIDCard.py idcardreader(188) - 'predicts'
+2023-08-01 16:01:46,609 ERROR - OcrIDCard.py idcardreader(188) - 'message'
+2023-08-02 01:12:31,640 ERROR - OcrIDCard.py idcardreader(182) - list index out of range
+2023-08-02 15:55:31,274 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:55:43,278 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:55:56,277 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:56:09,274 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:56:21,277 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:56:34,273 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:56:46,273 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:56:59,297 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:57:13,273 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:57:26,273 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:57:38,274 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:57:51,274 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:58:04,273 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:58:16,273 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:58:29,277 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:58:42,277 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:58:53,276 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:59:06,286 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 15:59:19,278 ERROR - OcrIDCard.py idcardreader(282) - 
+2023-08-02 16:12:32,274 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:12:45,273 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:12:58,274 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:13:10,273 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:13:23,273 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:13:36,281 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:13:49,420 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:14:01,276 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:14:14,302 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:14:26,281 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:17:45,273 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:17:58,307 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:18:12,273 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:18:25,295 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:18:37,276 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:18:50,289 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:19:03,273 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:19:15,273 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:19:28,290 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:19:42,280 ERROR - OcrIDCard.py idcardreader(303) - 
+2023-08-02 16:33:05,285 ERROR - OcrIDCard.py idcardreader(159) - 
+2023-08-03 00:16:56,717 ERROR - OcrIDCard.py idcardreader(234) - get_text_from_class() missing 1 required positional argument: 'output_data'
+2023-08-03 00:25:36,664 ERROR - OcrIDCard.py idcardreader(236) - get_text_from_classes() missing 1 required positional argument: 'output_data'
+2023-08-03 00:27:43,384 ERROR - OcrIDCard.py idcardreader(236) - get_text_from_classes() missing 1 required positional argument: 'output_data'
+2023-08-03 00:30:41,844 ERROR - OcrIDCard.py idcardreader(237) - get_text_from_classes() missing 1 required positional argument: 'output_data'
+2023-08-03 00:37:40,234 ERROR - OcrIDCard.py idcardreader(235) - get_text_from_class() missing 1 required positional argument: 'output_data'
+2023-08-03 00:38:10,481 ERROR - OcrIDCard.py idcardreader(236) - get_text_from_class() missing 1 required positional argument: 'output_data'
+2023-08-03 00:41:09,718 ERROR - OcrIDCard.py idcardreader(236) - get_text_from_classes() missing 1 required positional argument: 'predict'
+2023-08-07 00:05:06,294 ERROR - ocr_id_card.py idcardreader(142) - a bytes-like object is required, not 'str'
+2023-08-07 00:26:27,588 ERROR - ocr_id_card.py idcardreader(139) - get_text_from_class() got an unexpected keyword argument 'predict'
+2023-08-07 00:26:38,281 ERROR - ocr_id_card.py idcardreader(139) - get_text_from_class() got an unexpected keyword argument 'predict'
+2023-08-07 00:28:17,705 ERROR - ocr_id_card.py idcardreader(139) - get_text_from_class() got an unexpected keyword argument 'predict'
+2023-08-07 00:28:47,044 ERROR - ocr_id_card.py idcardreader(139) - get_text_from_class() got an unexpected keyword argument 'predict'
+2023-08-07 00:29:14,790 ERROR - ocr_id_card.py idcardreader(139) - get_text_from_class() got an unexpected keyword argument 'predict'
+2023-08-07 01:29:46,065 ERROR - ocr_id_card.py idcardreader(130) - name 'get_face_bbox_from_output' is not defined
+2023-08-07 01:31:29,960 ERROR - ocr_id_card.py idcardreader(130) - name 'get_face_bbox_from_output' is not defined
+2023-08-07 02:10:34,985 ERROR - ocr_id_card.py idcardreader(126) - Cannot connect to host 0.0.0.0:2821 ssl:default [Connect call failed ('0.0.0.0', 2821)]
+2023-08-07 02:12:42,707 ERROR - ocr_id_card.py idcardreader(126) - Cannot connect to host 0.0.0.0:2821 ssl:default [Connect call failed ('0.0.0.0', 2821)]
+2023-08-07 02:12:44,420 ERROR - ocr_id_card.py idcardreader(126) - Cannot connect to host 0.0.0.0:2821 ssl:default [Connect call failed ('0.0.0.0', 2821)]
+2023-08-07 02:19:47,471 ERROR - ocr_id_card.py idcardreader(126) - Cannot connect to host 0.0.0.0:2821 ssl:default [Connect call failed ('0.0.0.0', 2821)]
+2023-08-07 06:24:05,371 ERROR - ocr_id_card.py idcardreader(133) - ' bbox'
+2023-08-07 06:29:36,738 ERROR - ocr_id_card.py idcardreader(134) - 'text'
+2023-08-07 06:38:38,432 ERROR - ocr_id_card.py idcardreader(134) - 'bytes' object has no attribute 'copy'
+2023-08-07 07:12:40,550 ERROR - ocr_id_card.py idcardreader(139) - name 'image_pil' is not defined
+2023-08-07 08:43:23,105 ERROR - ocr_id_card.py idcardreader(134) - '_io.BytesIO' object has no attribute 'convert'
+2023-08-07 09:15:40,634 ERROR - ocr_id_card.py idcardreader(151) - local variable 'pil_image' referenced before assignment
+2023-08-07 09:18:53,567 ERROR - ocr_id_card.py idcardreader(151) - _getexif
+2023-08-08 03:58:37,327 ERROR - ocr_passport.py passportcardreader(139) - 
+2023-08-08 03:59:38,514 ERROR - ocr_passport.py passportcardreader(142) - 
+2023-08-08 04:00:51,837 ERROR - ocr_passport.py passportcardreader(144) - list indices must be integers or slices, not str
+2023-08-08 04:01:33,613 ERROR - ocr_passport.py passportcardreader(144) - name 'predicts' is not defined
+2023-08-08 04:01:46,346 ERROR - ocr_passport.py passportcardreader(144) - name 'predicts' is not defined
+2023-08-08 04:03:25,243 ERROR - ocr_passport.py passportcardreader(144) - 'score'
+2023-08-08 04:03:48,691 ERROR - ocr_passport.py passportcardreader(144) - 'score'
+2023-08-08 04:21:41,802 ERROR - ocr_passport.py passportcardreader(123) - OpenCV(4.8.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Argument 'thickness' is required to be an integer
+>  - Argument 'thickness' is required to be an integer
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+
+2023-08-08 04:55:31,012 ERROR - ocr_passport.py passportcardreader(120) - Cannot connect to host 0.0.0.0:8014 ssl:default [Connect call failed ('0.0.0.0', 8014)]
+2023-08-08 04:58:40,369 ERROR - ocr_passport.py passportcardreader(120) - [Errno None] Can not write request body for http://0.0.0.0:8014/predict_binary
+2023-08-08 09:59:23,786 ERROR - ocr_passport.py passportcardreader(130) - object bool can't be used in 'await' expression
+2023-08-08 10:00:36,744 ERROR - ocr_passport.py passportcardreader(129) - object bool can't be used in 'await' expression
+2023-08-09 03:46:02,566 ERROR - ocr_id_card.py idcardreader(141) - Cannot connect to host 0.0.0.0:8010 ssl:default [Connect call failed ('0.0.0.0', 8010)]
+2023-08-11 07:39:01,101 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 07:39:28,002 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 07:40:33,289 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 07:44:03,994 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 07:46:51,683 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 07:54:43,774 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 07:54:47,677 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 07:55:37,668 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 07:56:01,949 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 07:56:12,311 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 07:56:52,733 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 07:57:06,472 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 07:57:08,573 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 08:10:59,477 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-11 08:11:52,938 ERROR - ocr_id_card.py idcardreader(141) - 'predicts'
+2023-08-15 15:32:22,245 ERROR - ocr_id_card.py idcardreader(126) - [Errno 2] No such file or directory: 'data/user_test/face_drop.jpg'
+2023-08-15 15:56:22,807 ERROR - face.py idcardreader(55) - Cannot connect to host 192.168.20.156:8005 ssl:default [Connect call failed ('192.168.20.156', 8005)]
+2023-08-15 15:59:51,704 ERROR - face.py idcardreader(55) - Cannot connect to host 192.168.20.156:8005 ssl:default [Connect call failed ('192.168.20.156', 8005)]
+2023-08-16 00:30:22,372 ERROR - face.py idcardreader(55) - [Errno None] Can not write request body for http://localhost:8002/api/v1.1/face_detect_embedding
+2024-04-04 07:02:14,830 ERROR - ocr_id_card.py idcardreader(128) - list index out of range
+2024-04-04 07:02:17,204 ERROR - ocr_id_card.py idcardreader(128) - list index out of range
+2024-04-04 07:36:52,070 ERROR - ocr_id_card.py idcardreader(128) - Cannot connect to host 0.0.0.0:2821 ssl:default [Connect call failed ('0.0.0.0', 2821)]
+2024-04-04 07:37:20,133 ERROR - ocr_id_card.py idcardreader(128) - Cannot connect to host 0.0.0.0:2823 ssl:default [Connect call failed ('0.0.0.0', 2823)]
+2024-04-04 07:40:58,099 ERROR - ocr_id_card.py idcardreader(129) - list index out of range
+2024-04-04 07:43:26,380 ERROR - ocr_id_card.py idcardreader(129) - name 'cv2' is not defined
+2024-04-05 04:26:33,675 ERROR - ocr_id_card.py idcardreader(129) - Cannot connect to host 0.0.0.0:2821 ssl:default [Connect call failed ('0.0.0.0', 2821)]
+2024-04-05 04:27:04,168 ERROR - ocr_id_card.py idcardreader(129) - Cannot connect to host 0.0.0.0:2820 ssl:default [Connect call failed ('0.0.0.0', 2820)]
+2024-04-05 04:27:10,986 ERROR - ocr_id_card.py idcardreader(129) - Cannot connect to host 0.0.0.0:2822 ssl:default [Connect call failed ('0.0.0.0', 2822)]
+2024-04-05 04:27:36,868 ERROR - ocr_id_card.py idcardreader(141) - Cannot connect to host 0.0.0.0:2821 ssl:default [Connect call failed ('0.0.0.0', 2821)]
+2024-04-05 04:44:56,152 ERROR - ocr_passport.py passportcardreader(137) - Constructor parameter should be str
+2024-04-05 05:28:10,295 ERROR - face.py idcardreader(61) - 
+2024-04-05 05:41:59,115 ERROR - ocr_id_card.py idcardreader(128) - Cannot connect to host 0.0.0.0:2820 ssl:default [Connect call failed ('0.0.0.0', 2820)]
+2024-04-05 05:43:25,638 ERROR - ocr_id_card.py idcardreader(128) - Cannot connect to host 0.0.0.0:2820 ssl:default [Connect call failed ('0.0.0.0', 2820)]
+2024-04-05 05:44:05,598 ERROR - ocr_id_card.py idcardreader(128) - Cannot connect to host 0.0.0.0:2820 ssl:default [Connect call failed ('0.0.0.0', 2820)]
+2024-04-05 05:45:05,083 ERROR - face.py idcardreader(61) - Cannot connect to host 0.0.0.0:8005 ssl:default [Connect call failed ('0.0.0.0', 8005)]
+2024-04-05 05:50:52,235 ERROR - ocr_id_card.py idcardreader(128) - Cannot connect to host 0.0.0.0:2820 ssl:default [Connect call failed ('0.0.0.0', 2820)]
+2024-04-06 08:02:32,051 ERROR - ocr_id_card.py idcardreader(151) - 'conf'
+2024-04-06 08:03:59,557 ERROR - ocr_id_card.py idcardreader(152) - 'conf'
+2024-04-06 08:04:27,691 ERROR - ocr_id_card.py idcardreader(152) - 'conf'
+2024-04-06 08:04:41,480 ERROR - ocr_id_card.py idcardreader(152) - 'conf'
+2024-04-06 08:05:04,144 ERROR - ocr_id_card.py idcardreader(152) - 'conf'
+2024-04-06 08:12:00,675 ERROR - ocr_id_card.py idcardreader(145) - name 'average_conf' is not defined
+2024-04-06 08:13:42,408 ERROR - ocr_id_card.py idcardreader(145) - name 'average_conf' is not defined
+2024-04-06 08:13:50,650 ERROR - ocr_id_card.py idcardreader(145) - name 'average_conf' is not defined
+2024-04-06 08:15:16,174 ERROR - ocr_id_card.py idcardreader(145) - name 'average_conf' is not defined

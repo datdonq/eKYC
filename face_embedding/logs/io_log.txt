@@ -1,0 +1,74 @@
+2023-08-12 07:05:59,505 DEBUG - face_detect_embedding.py predict_face(64) - face_detect_embedding
+2023-08-12 07:07:41,055 DEBUG - face_detect_embedding.py predict_face(64) - face_detect_embedding
+2023-08-12 07:07:52,513 DEBUG - face_detect_embedding.py predict_face(64) - face_detect_embedding
+2023-08-12 07:13:07,601 DEBUG - face_detect_embedding.py predict_face(63) - face_detect_embedding
+2023-08-12 07:15:42,074 DEBUG - face_detect_embedding.py predict_face(63) - face_detect_embedding
+2023-08-12 07:17:02,831 DEBUG - face_detect_embedding.py predict_face(63) - face_detect_embedding
+2023-08-12 07:23:33,228 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:24:45,778 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:26:24,984 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:26:48,847 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:27:22,240 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:33:14,888 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:35:45,889 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:36:34,622 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:39:35,085 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:46:27,510 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:49:10,711 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:50:27,556 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:51:03,666 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:53:10,148 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:53:11,153 DEBUG - face_detect_embedding.py predict_face(99) - Face Search Error
+NoneType: None
+2023-08-12 07:55:13,905 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 07:55:15,446 DEBUG - face_detect_embedding.py predict_face(101) - Face Search Error
+NoneType: None
+2023-08-12 07:56:18,068 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 08:01:11,148 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 08:01:11,154 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2023-08-12 08:01:11,535 DEBUG - face_detect_embedding.py predict_face(113) - Step2 embedding face
+2023-08-12 08:08:26,883 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 08:08:26,895 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2023-08-12 08:08:27,005 DEBUG - face_detect_embedding.py predict_face(113) - Step2 embedding face
+2023-08-12 08:12:30,601 DEBUG - service.py <module>(47) - Start application.
+2023-08-12 09:05:49,012 DEBUG - app.py <module>(49) - Start application.
+2023-08-12 09:08:46,468 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2023-08-12 09:08:46,474 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2023-08-12 09:08:47,006 DEBUG - face_detect_embedding.py predict_face(113) - Step2 embedding face
+2023-08-12 09:11:25,167 DEBUG - app.py <module>(50) - Start application.
+2024-04-04 05:23:24,800 DEBUG - app.py <module>(50) - Start application.
+2024-04-04 06:08:25,914 DEBUG - app.py <module>(50) - Start application.
+2024-04-05 04:25:51,277 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2024-04-05 04:25:51,330 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2024-04-05 04:25:52,184 DEBUG - face_detect_embedding.py predict_face(100) - Face Search Error
+NoneType: None
+2024-04-05 05:32:38,534 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2024-04-05 05:32:38,542 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2024-04-05 05:32:38,748 DEBUG - face_detect_embedding.py predict_face(113) - Step2 embedding face
+2024-04-05 05:33:03,701 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2024-04-05 05:33:03,709 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2024-04-05 05:33:03,920 DEBUG - face_detect_embedding.py predict_face(113) - Step2 embedding face
+2024-04-05 05:33:11,628 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2024-04-05 05:33:11,637 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2024-04-05 05:33:11,851 DEBUG - face_detect_embedding.py predict_face(113) - Step2 embedding face
+2024-04-05 05:33:20,518 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2024-04-05 05:33:20,553 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2024-04-05 05:33:21,045 DEBUG - face_detect_embedding.py predict_face(113) - Step2 embedding face
+2024-04-05 05:33:34,426 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2024-04-05 05:33:34,434 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2024-04-05 05:33:34,680 DEBUG - face_detect_embedding.py predict_face(113) - Step2 embedding face
+2024-04-05 05:33:40,722 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2024-04-05 05:33:40,730 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2024-04-05 05:33:41,000 DEBUG - face_detect_embedding.py predict_face(113) - Step2 embedding face
+2024-04-05 05:38:18,326 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2024-04-05 05:38:18,335 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2024-04-05 05:38:18,559 DEBUG - face_detect_embedding.py predict_face(113) - Step2 embedding face
+2024-04-05 05:38:31,039 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2024-04-05 05:38:31,072 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2024-04-05 05:38:31,430 DEBUG - face_detect_embedding.py predict_face(113) - Step2 embedding face
+2024-04-05 05:48:28,838 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2024-04-05 05:48:28,841 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2024-04-05 05:48:28,911 DEBUG - face_detect_embedding.py predict_face(113) - Step2 embedding face
+2024-04-05 05:49:00,309 DEBUG - face_detect_embedding.py predict_face(63) - face detect embedding
+2024-04-05 05:49:00,312 DEBUG - face_detect_embedding.py predict_face(87) - Step1 detect face
+2024-04-05 05:49:00,380 DEBUG - face_detect_embedding.py predict_face(113) - Step2 embedding face

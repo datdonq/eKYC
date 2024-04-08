@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  main-application:
+    build: 
+      context: ./
+      dockerfile: dockerfile
+    container_name: application
+    ports:
+      - "8008:8008"
+    volumes:
+      - './:/app'
+    # working_dir: /app
+    network_mode: host
+    # command: python app.py

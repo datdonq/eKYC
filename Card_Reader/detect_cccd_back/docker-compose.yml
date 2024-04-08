@@ -1,0 +1,22 @@
+version: "3.9"
+
+services: 
+    ekyc_detect_cccd_back:
+        build:
+            context: ./
+            dockerfile: dockerfile
+        container_name: ekyc_detect_cccd_back
+        ports:
+            - 2821:80
+        restart: unless-stopped
+        volumes:
+            - ./:/base
+        # deploy:
+        #   resources:
+            # reservations:
+            #   devices:
+            #   - driver: nvidia
+            #     device_ids: ['3']
+            #     capabilities: [gpu]
+# networks:
+#   service_net:            
